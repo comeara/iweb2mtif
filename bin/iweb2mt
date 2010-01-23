@@ -1,2 +1,15 @@
 #!/usr/bin/env ruby
 
+$:.unshift File.expand_path(File.dirname(__FILE__) + "/../lib")
+require "rubygems"
+require "i_web_article"
+require "movable_type_post"
+
+if ARGV.empty?
+  $stderr.puts "Usage: iweb2mt source [source]"
+  exit 1
+end
+
+ARGV.each do |source|
+  $stdout.puts MovableTypePost.new(IWebArticle.build(:source => File.new(source))).render
+end
