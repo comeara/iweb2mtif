@@ -1,0 +1,1 @@
+find /Users/Chris/Dropbox/iWebExport/Site/Home/Entries/ -name \*xml |xargs bin/iweb2mt > all.out
