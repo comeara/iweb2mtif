@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E2BE8383-B731-40D9-A182-F151C8375182">
+  <lastEdited clientType="local-build-20100122" date="2010-01-22 14:27:47 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Relevant Reverence</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Took Papa to a real North Carolina beach.  Heavenly weather with temps in the mid 70&#x2019;s, a slight breeze, and CAVU skies.  Enjoyed finding fish in the surf.  Tiny fish jumping in the waves looking like rain.  Then bigger fish in the sand below.  And finally an entire SCHOOL of fish in the waves.  They jumped out of the water like porpoising whales.  Too cool!  &#xD;&#xD;Joshua invented a game he called &#x201C;Growl&#x201D; in which he would growl and scare Daddy who then ran away.  Hysterical laughter followed suit.  &#x2028;&#x2028;Papa took pictures, dug in the sand, read a book, and seemed thoroughly relaxed.  A perfect day of &#x201C;getting out of dodge.&#x201D;  </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Wrightsville Beach</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday, October 12, 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Wrightsville_Beach_files/shapeimage_3.jpg" left="0px" top="0px" width="282px" height="257px"/>
+</content>
